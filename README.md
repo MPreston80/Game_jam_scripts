@@ -1,4 +1,2 @@
 # Game_jam_scripts
-Scripts for a Unity game I created 
-For a game development class I was required to create a game given a particular theme. This was called a game jam, and the theme of the game I created for this game jam was bubble gum.
-All assets in the game except music were created by me, and the game can be played at: https://play.unity.com/mg/other/marvin-the-moose-s-bubble-gum-adventure
+I took a game development class, and I participated in two game jams that were required for the course. The scripts for the game I created during the second game jam, which had a theme of bubble gum, are in this repository. The game can be played at: https://play.unity.com/mg/other/marvin-the-moose-s-bubble-gum-adventure
